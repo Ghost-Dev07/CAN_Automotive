@@ -94,13 +94,13 @@ ECU 2 (RPM + Indicators)
 ### 🚗 ECU 1
 
 * Reads speed using ADC (POT)
-* Reads gear input via keypad
+* Reads gear input via digital keypad
 * Sends data via CAN
 
 ### 🚗 ECU 2
 
 * Reads RPM using ADC
-* Reads indicator status
+* Reads indicator status via digital Keypad
 * Sends data via CAN
 
 ### 🧠 Main ECU
@@ -130,6 +130,11 @@ ECU 2 (RPM + Indicators)
 * Successful communication between multiple ECUs
 * Real-time data synchronization achieved
 * Accurate display of vehicle parameters
+
+---
+
+##Video link
+https://drive.google.com/file/d/1DBVDsLQW1zQE0up9Ed-VPp6PlpFPhNlS/view?usp=drive_link
 
 ---
 
