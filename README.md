@@ -130,7 +130,7 @@ The system consists of three ECU nodes:
 
 ## 🎥 Demonstration Video
 
-* [View CAN System Demo](https://drive.google.com/file/d/1DBVDsLQW1zQE0up9Ed-VPp6PlpFPhNlS/view?usp=drive_link)
+* [View CAN System Demo](https://drive.google.com/file/d/1DBVDsLQW1zQE0up9Ed-VPp6PlpFPhNlS/view?usp=sharing)
 
 ---
 
